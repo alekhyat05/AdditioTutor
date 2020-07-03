@@ -1,0 +1,56 @@
+Question: 494 + 187
+Your anwser: 520
+Correct answer: 681
+
+Question: 126 + 218
+Your anwser: 344
+Correct answer: 344
+
+Question: 126 + 218
+Your anwser: 344
+Correct answer: 344
+
+Question: 126 + 218
+Your anwser: 344
+Correct answer: 344
+
+Question: 126 + 218
+Your anwser: 344
+Correct answer: 344
+
+Question: 206 + 104
+Your anwser: 310
+Correct answer: 310
+
+Question: 238 + 432
+Your anwser: 
+Correct answer: 670
+
+Question: 269 + 335
+Your anwser: 212
+Correct answer: 604
+
+Question: 197 − 144
+Your anwser: 169
+Correct answer: 53
+
+Question: 449 + 169
+Your anwser: 112
+Correct answer: 618
+
+Question: 115 + 346
+Your anwser: 
+Correct answer: 0
+
+Question: 115 + 346
+Your anwser: 
+Correct answer: 0
+
+Question: 115 + 346
+Your anwser: 112
+Correct answer: 461
+
+Question: 257 + 305
+Your anwser: 11
+Correct answer: 562
+
